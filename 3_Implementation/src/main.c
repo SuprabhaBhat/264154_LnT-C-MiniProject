@@ -1,5 +1,15 @@
-#include <stdio.h>
-#include <stdlib.h>
+/**
+ * @file main.c
+ * @author Suprabha 
+ * @brief simple c program of tic tac toe
+ * @version 0.1
+ * @date 2021-04-10
+ * 
+ * @copyright Copyright (c) 2021
+ * 
+ */
+#include "stdio.h"
+#include "stdlib.h"
 
 char matrix[3][3];  
 char check(void);
