@@ -1,7 +1,8 @@
 # Application based learning
 ## TIC-TAC-TOE GAME
 
-![image](https://user-images.githubusercontent.com/81605230/114263312-59139600-9a02-11eb-8708-47db2f03b7fc.png)
+![image](https://user-images.githubusercontent.com/81605230/114263312-59139600-9a02-11eb-8708-47db2f03b7fc.png
+
 
 
 ## Folder Structure
@@ -18,6 +19,7 @@ SF Id. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Case
 -------|---------|----------------|----------------|---------------|-------------|--------------
 `264154` | Suprabha  | Feature A, B etc    | X No     | X No   |X No   |X No     
    
+| ![C/C++ CI](https://github.com/SuprabhaBhat/LnT-C-MiniProject-/blob/main/.github/c-cpp.yml/badge.svg)   | [![Unity - Unit Testing](https://github.com/SuprabhaBhat/LnT-C-MiniProject-/blob/main/.github/unity.yml/badge.svg)]   | ![Static Cppcheck](https://github.com/SuprabhaBhat/LnT-C-MiniProject-/blob/main/.github//cppcheck.yml/badge.svg)] |
 
 ## Challenges Faced and How Was It Overcome
 
